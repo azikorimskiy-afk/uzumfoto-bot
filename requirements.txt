@@ -1,4 +1,4 @@
-pyTelegramBotAPI==4.16.1
-flask==3.0.3
-requests==2.32.3
-pillow==10.3.0
+pyTelegramBotAPI
+flask
+requests
+pillow
