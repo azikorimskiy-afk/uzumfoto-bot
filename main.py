@@ -6,7 +6,7 @@ import os
 
 # Получаем токен из переменных окружения
 BOT_TOKEN = os.getenv("8261530343:AAHMnH612XUQ4LV5mAJwYHmFb9mLHbEY0R0")
-bot = telebot.TeleBot(8261530343:AAHMnH612XUQ4LV5mAJwYHmFb9mLHbEY0R0)
+bot = telebot.TeleBot("8261530343:AAHMnH612XUQ4LV5mAJwYHmFb9mLHbEY0R0")
 
 @bot.message_handler(content_types=['photo'])
 def handle_photo(message):
