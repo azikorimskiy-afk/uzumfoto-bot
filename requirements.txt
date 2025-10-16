@@ -1,3 +1,5 @@
 pytelegrambotapi
 rembg
 pillow
+onnxruntime
+telebot
