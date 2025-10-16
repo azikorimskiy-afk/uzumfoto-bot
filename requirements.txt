@@ -2,7 +2,6 @@ pyTelegramBotAPI==4.16.1
 flask==3.0.3
 rembg==2.0.67
 pillow==10.3.0
-opencv-python==4.10.0.84
-onnxruntime==1.19.2
+onnxruntime==1.18.0
 numpy==1.26.4
 requests==2.32.3
